@@ -1,4 +1,4 @@
-# stack---data-structures
+# stack:data-structures
 
                 A stack is a data structure that holds a list of elements.
                 A stack works based on the LIFO principle i.e., Last In, First out, meaning that the most recently added element is the first one to remove.
