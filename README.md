@@ -6,7 +6,10 @@ A stack has two main operations that occur only at the top of the stack: push an
 # Operations
 
 Push operation
+
  The push operation places an element at the top of stack.
+ 
       
 Pop operation
+
  Pop operation removes an element from the top of the stack.
